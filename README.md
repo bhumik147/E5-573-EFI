@@ -1,4 +1,4 @@
-# E5-573-EFI
+# ACER E5-573-EFI
 macOS Catalina Guide for Intel 5th Gen Laptop
 
 Laptop Specs:
@@ -9,14 +9,12 @@ Ram: 4 GB
 Wifi: Qualcomm Atheros QCA9377
 
 
-EFI:
-
-Version: Clover UEFI r5120 (Olarila)
+# EFI Version: Clover UEFI r5120 (Olarila)
 
 
 Create Bootable:
 
-1. Create Bootable by downloading macOS Catalina Image 
+1. Download macOS Catalina 10.15.3 Image from https://www.olarila.com/topic/6278-new-vanilla-olarila-images/
 2. Flash image to USB Drive by balenaEtcher
 3. Replace EFI Folder with the one in this repository.
 
