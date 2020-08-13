@@ -35,7 +35,7 @@ Clover UEFI - r5120 (Olarila)
 
 # Whats woriking: 
 
-1. USB 3.0 and 2.0
+1. USB 3.0
 2. Trackpad (partially) 
 3. Keyboard (All Fns like brightness, volume)
 4. Bluetooth
@@ -47,4 +47,5 @@ Clover UEFI - r5120 (Olarila)
 1. Camera
 2. Wifi
 3. Ethernet
-
+4. Battery Info
+5. USB 2.0
