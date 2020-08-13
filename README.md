@@ -40,10 +40,11 @@ Clover UEFI - r5120 (Olarila)
 3. Keyboard (All Fns like brightness, volume)
 4. Bluetooth
 5. Full Hardware Acceleration in Graphics
+6. Audio
 
 # Not Working:
 
 1. Camera
 2. Wifi
 3. Ethernet
-4. Audio
+
